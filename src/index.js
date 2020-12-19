@@ -1,5 +1,5 @@
 import './main.scss';
 
 const header = document.createElement('h1');
-header.textContent = 'Текст синего цвета';
+header.textContent = 'Текст зеленого цвета';
 document.body.appendChild(header);
